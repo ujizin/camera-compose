@@ -1,8 +1,6 @@
 # Camera Compose
 
-Sample project using [Camposer Library](https://github.com/ujizin/Camposer/)
-
-This is a basic example project exclusively created for [Medium post]()
+Sample project using [Camposer Library](https://github.com/ujizin/Camposer/) exclusively created for [Medium post]()
 
 Check out the official [Sample project](https://github.com/ujizin/Camposer/tree/main/camposer) for Camposer
 
